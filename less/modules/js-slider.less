@@ -1,0 +1,198 @@
+
+
+/* Styling Pagination*/
+
+/* 
+ *  Core Owl Carousel CSS File
+ *  v1.3.2
+ */
+
+/* clearfix */
+.owl-carousel .owl-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+/* display none until init */
+.owl-carousel{
+  display: none;
+  width: 95%;
+  -ms-touch-action: pan-y;
+  margin: auto;
+  padding: 25px 15px;
+  background-color:#fff;
+}
+.owl-carousel .owl-wrapper{
+  display: none;
+  position: relative;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper-outer{
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-bottom: 1em;
+  padding-top: 2em;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight{
+  -webkit-transition: height 500ms ease-in-out;
+  -moz-transition: height 500ms ease-in-out;
+  -ms-transition: height 500ms ease-in-out;
+  -o-transition: height 500ms ease-in-out;
+  transition: height 500ms ease-in-out;
+}
+
+.owl-item .item{
+    margin: 0;
+    border-radius: 0;
+    overflow: hidden;
+    background:#fff;
+    height: 100px;
+    padding:10px;
+    text-align: center;
+    transition:.2s linear all;
+    -moz-transition:.2s linear all;
+    -webkit-transition:.2s linear all;
+
+    img{
+     /* max-height: 100%;
+      max-width: 100%;*/
+    }
+}
+  
+.owl-carousel .owl-item{
+  float: left;
+}
+.owl-controls .owl-page,
+.owl-controls .owl-buttons div{
+  cursor: pointer;
+}
+.owl-controls .owl-buttons .owl-prev:before,.owl-controls .owl-buttons .owl-next:before{
+  position: absolute;
+  content: '';
+  background: url(../i/icon/arrows.png) no-repeat;
+  width: 16px;
+  height: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.owl-controls .owl-buttons .owl-next:before{
+  background-position: -13px 0px;
+}
+.owl-controls .owl-buttons .owl-next:hover:before{
+  background-position: -13px -22px;
+}
+.owl-controls .owl-buttons .owl-prev:hover:before{
+  background-position: 0px -22px;
+}
+.owl-controls .owl-buttons .owl-prev{
+  position: absolute;
+  left: 0;
+  color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  background: rgba(0,0,0,0.7);
+  height: 65px;
+  width: 50px;
+}
+.owl-controls .owl-buttons .owl-next{
+  position: absolute;
+  color: transparent;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  background: rgba(0,0,0,0.7);
+  height: 65px;
+  width: 50px;
+}
+.owl-controls {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* mouse grab icon */
+.grabbing { 
+    cursor:url(grabbing.png) 8 8, move;
+}
+
+/* fix */
+.owl-carousel  .owl-wrapper,
+.owl-carousel  .owl-item{
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility:    hidden;
+  -ms-backface-visibility:     hidden;
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+}
+
+
+
+.owl-theme .owl-controls .owl-page{
+  display: inline-block;
+  zoom: 1;
+  *display: inline;/*IE7 life-saver */
+}
+.owl-theme .owl-controls .owl-page span{
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin: 5px 5px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border:3px solid #423c3c;
+  background: #423c3c;
+}
+
+.owl-theme .owl-controls .owl-page.active span{
+  border:0;
+  width: 15px;
+  height:15px;
+  display:block;
+  margin: 5px 5px;
+  border:1px solid #f79827;
+  background:#f79827;
+}
+
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  filter: Alpha(Opacity=100);/*IE7 fix*/
+  // border-color:#423c3c;
+}
+
+.owl-pagination {
+  text-align: center;
+}
+
+.owl-controls {
+margin: 2em 0 1em;
+}
+
+.owl-carousel .owl-item img {
+  transform-style: inherit;
+  max-width: 100%;
+  width: inherit;
+  text-align: center;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.owl-carousel{
+  .owl-item{
+    width: 200px !important;
+  }
+}

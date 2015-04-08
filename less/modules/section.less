@@ -1,0 +1,122 @@
+.section-hero-menu{
+  &:after{
+    content: '';
+    clear: both;
+    display: table;
+  }
+}
+
+.skin-gray{
+  background-color: #f1f1f1;
+}
+
+.skin-blue{
+  background-color: #165096;
+}
+
+.skin-white{
+  background-color: #ffffff;
+}
+
+.skin-gradient{
+  background: #8d8e8e; /* Old browsers */
+  background: -moz-linear-gradient(left,  #8d8e8e 0%, #d6d6d6 27%, #787d7d 49%, #d6d6d6 77%, #cbcdcd 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,#8d8e8e), color-stop(27%,#d6d6d6), color-stop(49%,#787d7d), color-stop(77%,#d6d6d6), color-stop(100%,#cbcdcd)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  #8d8e8e 0%,#d6d6d6 27%,#787d7d 49%,#d6d6d6 77%,#cbcdcd 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  #8d8e8e 0%,#d6d6d6 27%,#787d7d 49%,#d6d6d6 77%,#cbcdcd 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  #8d8e8e 0%,#d6d6d6 27%,#787d7d 49%,#d6d6d6 77%,#cbcdcd 100%); /* IE10+ */
+  background: linear-gradient(to right,  #8d8e8e 0%,#d6d6d6 27%,#787d7d 49%,#d6d6d6 77%,#cbcdcd 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8d8e8e', endColorstr='#cbcdcd',GradientType=1 ); /* IE6-9 */
+
+}
+
+.section {
+  padding: 5em 0;
+  position: relative; 
+}
+
+
+.section-img {
+    img {
+      max-width: 100%;
+    }
+}
+
+.section-title{
+  font-size: 38px;
+  margin: 0;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.section-about{
+  padding: 2em 0;
+}
+
+.section-featured{
+  position: relative;
+
+  &:before{
+    position: absolute;
+    content:'';
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 30px solid #fff;
+  }
+}
+
+.section-updates{
+  .section-title{
+    position: relative;
+
+    &:after{
+      position: absolute;
+      content: '';
+      margin: auto;
+      left: 0;
+      right: 0;
+      bottom: -10px;
+      width: 10%;
+      height: 2px;
+      background-color: #267abb;
+
+      transition: all 0.4s;
+      -webkit-transition: all all 0.4s ease;
+      -moz-transition: all all 0.4s ease;
+      -ms-transition: all all 0.4s ease;
+      -o-transition: all all 0.4s ease;
+
+    }
+
+    &:hover{
+      &:after{
+      width: 15%;
+    }
+    }
+  }
+}
+
+.section-quote{
+  .section-title{
+    color: #fff;
+  }
+
+  .btn{
+    .font-bold();
+    font-size: 24px;
+  }
+
+  .form-group{
+      margin-bottom: 2em;
+  }
+}
+
+.section-brands{
+  position: relative;
+}

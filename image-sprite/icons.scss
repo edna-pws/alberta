@@ -1,0 +1,73 @@
+// this file is compile with compass.
+
+@import "compass/utilities/sprites";
+
+[class^="icon-"],
+[class*="icon-"] {
+	display: inline-block;
+}
+
+$icon-layout:horizontal;
+@import "icon/*.png";
+@include all-icon-sprites;
+$icon: sprite-map("icon/*.png", $spacing: 10px);
+
+.icon-support{
+  @include sprite-dimensions($icon, support);
+}
+
+.icon-support-h{
+  @include sprite-dimensions($icon, support-h);
+}
+
+.icon-hosting{
+  @include sprite-dimensions($icon, hosting);
+}
+
+.icon-hosting-h{
+  @include sprite-dimensions($icon, hosting-h);
+}
+
+.icon-virtualization{
+  @include sprite-dimensions($icon, virtualization);
+}
+
+.icon-virtualization-h{
+  @include sprite-dimensions($icon, virtualization-h);
+}
+
+.icon-server{
+  @include sprite-dimensions($icon, server);
+}
+
+.icon-server-h{
+  @include sprite-dimensions($icon, server-h);
+}
+
+.icon-design{
+  @include sprite-dimensions($icon, design);
+}
+
+.icon-design-h{
+  @include sprite-dimensions($icon, design-h);
+}
+
+.icon-design-o{
+  @include sprite-dimensions($icon, design-o);
+}
+
+.icon-server-o{
+  @include sprite-dimensions($icon, server-o);
+}
+
+.icon-virtualization-o{
+  @include sprite-dimensions($icon, virtualization-o);
+}
+
+.icon-hosting-o{
+  @include sprite-dimensions($icon, hosting-o);
+}
+
+
+
+
