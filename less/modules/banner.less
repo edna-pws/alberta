@@ -1,4 +1,4 @@
-.banner-caption{
+.banner-caption {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -10,7 +10,7 @@
   text-align: center;
 }
 
-.banner-title{
+.banner-title {
   .font-bold();
   font-size: 44px;
   color: #fff;
@@ -19,7 +19,7 @@
   margin-bottom: 1em;
 }
 
-.banner-slider{
+.banner-slider {
   position: relative;
 }
 
@@ -31,26 +31,7 @@
   position: relative;
 }*/
 
-.banner{
-  min-height: 445px;
-  position: relative;
-  background: url("../images/banner2.jpeg") no-repeat center -140px;
-  background-attachment: fixed;
-  width: 100%;
-  background-size: cover;
-
-  &:before{
-    content: '';
-    position: absolute;
-    background: #000;
-    width: 100%;
-    min-height: 445px;
-    opacity: .4;
-  }
-}
-
-
-.banner-img{
+.banner-img {
   position: relative;
   background-color: #000;
   height: 445px;
@@ -74,4 +55,35 @@
     }
   }
 }
+
+.banner {
+  position: relative;
+  width: 100%;
+  min-height: 445px;
+  background-image: url(../images/banner2.jpeg);
+  background-position: center -140px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  &:before {
+    content: '';
+    position: absolute;
+    background: #000;
+    width: 100%;
+    min-height: 445px;
+    opacity: .4;
+  }
+}
+
+.banner-about {
+  background-image: url(../images/banner4.jpg);
+}
+
+.banner-contact {
+  background-image: url(../images/banner3.jpg);
+}
+
+
+
 
