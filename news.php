@@ -1,33 +1,101 @@
  <?php include('includes/header.php'); ?>
-
-  <div class="banner banner-contact">
+ 
+  <div class="content content-news">
     <div class="container">
-      <div class="banner-caption">
-        <h1 class="banner-title">Contact Us</h1>
-      </div>
-    </div>
-  </div>
-
-  <div class="section section-contact">
-    <div class="container-fluid">
+      <h1 class="page-title">News</h1>
       <div class="row">
-        <div class="col-md-5">
-          <div class="contact-details">
-            <h3>AlbertaIT, Inc.</h3>
-            <p>202 - 5740 2nd Street SW Calgary, AB T2H 1Y6 CANADA</p>
-            <h3>Main/Fax:</h3>
-            <p>1.800.833.4501</p>
-            <h3>For all inquiries:</h3>
-            <p>Info@AlbertaIT.com</p>
-          </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/servers.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
         </div>
-        <div class="col-md-7 contact-map-wrapper">
-          <div class="contact-map">
-            <img class="img-responsive" src="images/map.jpg" alt="map">
-          </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/christmas.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
+        </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/trees.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
+        </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/mountain.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
+        </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/road.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
+        </div>
+        <div class="col-md-4">
+          <div class="post-block post-block-news">
+            <div class="post-head">
+              <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
+              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+            </div>
+            <div class="post-body">
+              <div class="post-block-image">
+                <img class="img-responsive" src="images/sea.jpg" alt="image">
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+              <div class="btn btn-primary">Read More</div>
+            </div>
+          </div><!-- /.post-block -->
         </div>
       </div>
     </div><!-- /.container -->
-  </div><!-- /.section-contact -->
+  </div><!-- /.content-news -->
   
 <?php include('includes/footer.php'); ?>

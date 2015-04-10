@@ -116,13 +116,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/banner6.jpg": {
+	"\/images\/banner5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 246483,
-		"inputAbbreviatedPath": "\/images\/banner6.jpg",
-		"outputAbbreviatedPath": "\/images\/banner6.jpg",
+		"inputAbbreviatedPath": "\/images\/banner5.jpg",
+		"outputAbbreviatedPath": "\/images\/banner5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

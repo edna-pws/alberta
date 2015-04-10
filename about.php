@@ -20,9 +20,8 @@
             </div>
           </div>
 
-          <div class="row">
-
-            <div class="col-md-4">
+          <div class="row featured-services">
+            <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/support.jpg" alt="Full Managed IT Support">
@@ -38,7 +37,7 @@
               </div>
             </div>
 
-             <div class="col-md-4">
+             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/cloud-hosting.jpg" alt="Full Managed IT Support">
@@ -50,7 +49,7 @@
               </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/virtualization.jpg" alt="Full Managed IT Support">
@@ -64,7 +63,7 @@
               </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/security.jpg" alt="Full Managed IT Support">
@@ -77,7 +76,7 @@
               </div>
             </div>
 
-             <div class="col-md-4">
+             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/server-monitoring.jpg" alt="Full Managed IT Support">
@@ -89,7 +88,7 @@
               </div>
             </div>
 
-             <div class="col-md-4">
+             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
                   <img class="img-responsive" src="images/disaster-recovery.jpg" alt="Full Managed IT Support">

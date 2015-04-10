@@ -81,6 +81,21 @@
               <label for="job-posting">Where did you see this job posting?</label>
               <input type="text" class="form-control" id="job-posting" placeholder="Write here...">
             </div>
+            <div class="form-group">
+              <label for="captcha">Captcha</label>
+              <div class="row">
+                <div class="col-md-4">
+                  <img class="captcha" src="images/captcha.jpg" alt="captcha">
+                </div>
+                <div class="col-md-8">
+                  <input type="text" class="form-control" id="captcha" placeholder="Enter the words above">
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="resume">Attach Resume: (.doc, .docx, .pdf)</label>
+              <input type="file" id="resume">
+            </div>
           </div>  
         </div>
 
