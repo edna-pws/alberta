@@ -1,7 +1,7 @@
  <?php include('includes/header.php'); ?>
 
     <div class="services-page">
-      <div class="banner banner-about">
+      <div class="banner banner-services">
         <div class="container">
           <div class="banner-caption">
             <h1 class="banner-title">Discover our Services</h1>
