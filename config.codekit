@@ -391,6 +391,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/icon-sbe243d15ec.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
+		"outputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/icon\/application.png": {
 		"fileType": 32768,
 		"ignore": 0,

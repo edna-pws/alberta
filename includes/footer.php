@@ -211,6 +211,8 @@
     <script src="scripts/jquery.js"></script>
     <script src="scripts/modernizr.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
+    <script src="scripts/classie.js"></script>
+    <script src="scripts/singlePageNav.js"></script>
     <script src="scripts/carousel/owl.carousel.min.js"></script>
     <script src="scripts/main.js"></script>
   </body>

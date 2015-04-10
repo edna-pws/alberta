@@ -10,10 +10,10 @@ var util = {
             // e.productSlider();
             e.brandsSlider();
             e.logoSlider();
-            // e.singlePageNav();
+            e.singlePageNav();
             //e.menu();
             // e.pagePreloader();
-            // e.navFixTop();
+            e.navFixTop();
             // e.scrollTop();
         }, 
 
@@ -29,7 +29,7 @@ var util = {
         navFixTop: function() {
 
                 var docElem = document.documentElement,
-                    header = document.querySelector('.navbar-fixed-top'),
+                    header = document.querySelector('.hero-menu-primary'),
                     didScroll = false,
                     changeHeaderOn = 70,
                     changeHeaderOnBody = $('.banner').height() - 200;
