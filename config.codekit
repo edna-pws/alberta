@@ -72,6 +72,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/images\/banner-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 699071,
+		"inputAbbreviatedPath": "\/images\/banner-home.jpg",
+		"outputAbbreviatedPath": "\/images\/banner-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -387,6 +398,17 @@
 		"initialSize": 274319,
 		"inputAbbreviatedPath": "\/images\/group.jpg",
 		"outputAbbreviatedPath": "\/images\/group.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon-sbe243d15ec.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22166,
+		"inputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
+		"outputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2742,7 +2764,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jrald B.",
+"lastSavedByUser": "Philweb Frontend",
 "manualImportLinks": {
 	},
 "projectAttributes": {
