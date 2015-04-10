@@ -75,6 +75,89 @@
               <p>With AlbertaIT, you can stop worrying about IT issues so you can focus on moving your business forward. Our experienced staff monitors and maintains your IT infrastructure 24x7 to keep your business running.</p>
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-support"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      It Service
+                    </h4>
+                    <p>
+                      Customized and affordable packages which include helpdesk and remote support, on-site support and troubleshooting, IT asset management, procurement services, and WAN project services.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-network-support"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      NETWORK SUPPORT AND MAINTENANCE
+                    </h4>
+                    <p>
+                      Our network support engineers are certified in the latest network technologies. You’ll get expert top-notch support when you need it the most; software updates, and regularly scheduled maintenance work without a whole lot of stress.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+             <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-hosting"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      SERVER SUPPORT AND MAINTENANCE
+                    </h4>
+                    <p>
+                      Support is critical and maintenance is unavoidable and inevitable. Our engineers can provide your business with ways to maximize the productivity of your servers by providing your business with the correct set of tools to monitor your servers’ performance and allowing you to prevent costly downtimes.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-maintenance"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      DESKTOP SUPPORT AND MAINTENANCE
+                    </h4>
+                    <p>
+                      Whether your business needs an asset managementsoftware, remote control software or just qualified and experienced helpdesk engineers, rest assured that IT maintenance as a whole is our expertise.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
         </div>
       </div>
 

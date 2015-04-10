@@ -112,3 +112,7 @@ $icon: sprite-map("icon/*.png", $spacing: 10px);
   @include sprite-dimensions($icon, surveillance);
 }
 
+.icon-network-support{
+  @include sprite-dimensions($icon, network-support);
+}
+
