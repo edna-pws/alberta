@@ -72,17 +72,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/images\/banner-home.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 699071,
-		"inputAbbreviatedPath": "\/images\/banner-home.jpg",
-		"outputAbbreviatedPath": "\/images\/banner-home.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -94,13 +83,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/banner2.jpeg": {
+	"\/images\/banner2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 101100,
-		"inputAbbreviatedPath": "\/images\/banner2.jpeg",
-		"outputAbbreviatedPath": "\/images\/banner2.jpeg",
+		"initialSize": 192894,
+		"inputAbbreviatedPath": "\/images\/banner2.jpg",
+		"outputAbbreviatedPath": "\/images\/banner2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -109,7 +98,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 246483,
+		"initialSize": 146622,
 		"inputAbbreviatedPath": "\/images\/banner3.jpg",
 		"outputAbbreviatedPath": "\/images\/banner3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -123,6 +112,17 @@
 		"initialSize": 326687,
 		"inputAbbreviatedPath": "\/images\/banner4.jpg",
 		"outputAbbreviatedPath": "\/images\/banner4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/banner6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246483,
+		"inputAbbreviatedPath": "\/images\/banner6.jpg",
+		"outputAbbreviatedPath": "\/images\/banner6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -402,6 +402,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/icon-check.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1378,
+		"inputAbbreviatedPath": "\/images\/icon-check.png",
+		"outputAbbreviatedPath": "\/images\/icon-check.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon-hardware.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5265,
+		"inputAbbreviatedPath": "\/images\/icon-hardware.png",
+		"outputAbbreviatedPath": "\/images\/icon-hardware.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/icon-sbe243d15ec.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -409,6 +431,28 @@
 		"initialSize": 22166,
 		"inputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
 		"outputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon-software.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2866,
+		"inputAbbreviatedPath": "\/images\/icon-software.png",
+		"outputAbbreviatedPath": "\/images\/icon-software.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon-warranty.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7570,
+		"inputAbbreviatedPath": "\/images\/icon-warranty.png",
+		"outputAbbreviatedPath": "\/images\/icon-warranty.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

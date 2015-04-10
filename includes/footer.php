@@ -1,4 +1,3 @@
-
       <div class="section section-quote skin-blue">
         <div class="container">
           <h2 class="section-title">Get a Quote Now</h2>

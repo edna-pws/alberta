@@ -12,7 +12,7 @@
       <div class="section-hero-menu">
         <ul class="nav navbar-nav hero-menu-primary">
           <li>
-          <a href="support">
+          <a href="#support">
             <i class="icon icon-support"></i>
             <div class="service-title">
               it support
@@ -21,7 +21,7 @@
           </li>
 
            <li>
-          <a href="virtualization">
+          <a href="#virtualization">
             <i class="icon icon-virtualization"></i>
             <div class="service-title">
               virtualization
@@ -30,7 +30,7 @@
           </li>
 
            <li>
-          <a href="security">
+          <a href="#security">
             <i class="icon icon-security"></i>
             <div class="service-title">
               manage it security
@@ -39,7 +39,7 @@
           </li>
 
            <li>
-          <a href="server">
+          <a href="#server">
             <i class="icon icon-server"></i>
             <div class="service-title">
               server monitoring
@@ -48,7 +48,7 @@
           </li>
 
            <li>
-          <a href="disaster">
+          <a href="#disaster">
             <i class="icon icon-disaster"></i>
             <div class="service-title">
               disaster recovery
@@ -57,7 +57,7 @@
           </li>
 
            <li>
-          <a href="design">
+          <a href="#design">
             <i class="icon icon-design"></i>
             <div class="service-title">
               web design and development
