@@ -24,7 +24,7 @@
           <a href="virtualization">
             <i class="icon icon-virtualization"></i>
             <div class="service-title">
-              cloud hosting
+              virtualization
             </div>
             </a>
           </li>
@@ -151,7 +151,7 @@ Managed IT Support Special</h2>
 
           <div class="row">
             <div class="col-sm-6">
-              <ul class="list-check">
+              <ul class="list-check-primary">
                 <li>24 x 7 – Helpdesk Support</li>
                 <li>24 x 7 – Onsite Support</li>
                 <li>Helpdesk Services to better manage your IT needs</li>
@@ -160,7 +160,7 @@ Managed IT Support Special</h2>
             </div>
 
             <div class="col-sm-6">
-              <ul class="list-check">
+              <ul class="list-check-primary">
                 <li>Cloud Services</li>
                 <li>Hosted Exchange Services</li>
                 <li>Hosted Desktop and Server Services</li>

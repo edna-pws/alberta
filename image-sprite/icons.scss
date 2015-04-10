@@ -68,6 +68,47 @@ $icon: sprite-map("icon/*.png", $spacing: 10px);
   @include sprite-dimensions($icon, hosting-o);
 }
 
+.icon-security{
+  @include sprite-dimensions($icon, security);
+}
 
+.icon-disaster{
+  @include sprite-dimensions($icon, disaster);
+}
 
+.icon-application{
+  @include sprite-dimensions($icon, application);
+}
+
+.icon-cms{
+  @include sprite-dimensions($icon, cms);
+}
+
+.icon-ecommerce{
+  @include sprite-dimensions($icon, ecommerce);
+}
+
+.icon-forensic{
+  @include sprite-dimensions($icon, forensic);
+}
+
+.icon-maintenance{
+  @include sprite-dimensions($icon, maintenance);
+}
+
+.icon-network-security{
+  @include sprite-dimensions($icon, network-security);
+}
+
+.icon-responsive{
+  @include sprite-dimensions($icon, responsive);
+}
+
+.icon-server-virtualization{
+  @include sprite-dimensions($icon, server-virtualization);
+}
+
+.icon-surveillance{
+  @include sprite-dimensions($icon, surveillance);
+}
 

@@ -80,6 +80,14 @@
             text-decoration: none;
             background: none;
           }
+
+          .icon{
+            transform: scale(0.85);
+            -webkit-transform: scale(0.85);
+            -moz-transform: scale(0.85);
+            -ms-transform: scale(0.85);
+            -o-transform: scale(0.85);
+          }
         }
     }
 }
@@ -242,6 +250,16 @@
       width: 25px;
       height: 25px;
       background-image: url('../images/check.png');
+    }
+  }
+}
+
+.list-check-primary{
+  .list-check();
+
+  > li{
+    &:before{
+      background-image: url('../images/check-b.png');
     }
   }
 }
