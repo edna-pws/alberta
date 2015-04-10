@@ -11,24 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/careers.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/careers.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/contact.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/contact.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/icons.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -72,17 +54,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/images\/banner.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 990132,
-		"inputAbbreviatedPath": "\/images\/banner.jpg",
-		"outputAbbreviatedPath": "\/images\/banner.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/banner2.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -90,28 +61,6 @@
 		"initialSize": 101100,
 		"inputAbbreviatedPath": "\/images\/banner2.jpeg",
 		"outputAbbreviatedPath": "\/images\/banner2.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/banner3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 246483,
-		"inputAbbreviatedPath": "\/images\/banner3.jpg",
-		"outputAbbreviatedPath": "\/images\/banner3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/banner4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 326687,
-		"inputAbbreviatedPath": "\/images\/banner4.jpg",
-		"outputAbbreviatedPath": "\/images\/banner4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -365,17 +314,6 @@
 		"initialSize": 97311,
 		"inputAbbreviatedPath": "\/images\/desktop.png",
 		"outputAbbreviatedPath": "\/images\/desktop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/disaster-recovery.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23343,
-		"inputAbbreviatedPath": "\/images\/disaster-recovery.jpg",
-		"outputAbbreviatedPath": "\/images\/disaster-recovery.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -743,28 +681,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/server-monitoring.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26331,
-		"inputAbbreviatedPath": "\/images\/server-monitoring.jpg",
-		"outputAbbreviatedPath": "\/images\/server-monitoring.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/support.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26166,
-		"inputAbbreviatedPath": "\/images\/support.jpg",
-		"outputAbbreviatedPath": "\/images\/support.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/tablet.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -772,17 +688,6 @@
 		"initialSize": 49769,
 		"inputAbbreviatedPath": "\/images\/tablet.png",
 		"outputAbbreviatedPath": "\/images\/tablet.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/virtualization.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19846,
-		"inputAbbreviatedPath": "\/images\/virtualization.jpg",
-		"outputAbbreviatedPath": "\/images\/virtualization.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2419,26 +2324,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/modules\/form.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/modules\/form.less",
-		"outputAbbreviatedPath": "\/less\/css\/form.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
 	"\/less\/modules\/global.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -2519,26 +2404,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/modules\/misc.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/modules\/misc.less",
-		"outputAbbreviatedPath": "\/less\/css\/misc.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
 	"\/less\/modules\/post.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -2558,44 +2423,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/less\/modules\/section.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/modules\/section.less",
-		"outputAbbreviatedPath": "\/less\/css\/section.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
-	"\/news.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/news.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/products.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/products.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/scripts\/bootstrap.min.js": {
 		"fileType": 64,
@@ -2625,6 +2452,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/carousel\/owl.carousel.min.js",
 		"outputAbbreviatedPath": "\/scripts\/carousel\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/classie.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/classie.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/classie-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2696,14 +2534,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/services.php": {
-		"fileType": 8192,
+	"\/scripts\/singlePageNav.js": {
+		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/services.php",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/scripts\/singlePageNav.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/singlePageNav-min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/styles\/bootstrap.min.css": {
 		"fileType": 16,
