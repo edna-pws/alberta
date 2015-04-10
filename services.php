@@ -1,71 +1,73 @@
  <?php include('includes/header.php'); ?>
 
     <div class="services-page">
-      <div class="banner banner-about">
+      <div class="banner banner-services">
         <div class="container">
           <div class="banner-caption">
             <h1 class="banner-title">Discover our Services</h1>
           </div>
         </div>
-      </div>
 
-      <div class="section-hero-menu">
-        <ul class="nav navbar-nav hero-menu-primary">
+        <div class="section-hero-menu ">
+        <ul class="nav navbar-nav navbar-fixed-top hero-menu-primary single-page-nav">
           <li>
           <a href="#support">
             <i class="icon icon-support"></i>
-            <div class="service-title">
+            <span class="service-title">
               it support
-            </div>
+            </span>
             </a>
           </li>
 
            <li>
           <a href="#virtualization">
             <i class="icon icon-virtualization"></i>
-            <div class="service-title">
+            <span class="service-title">
               virtualization
-            </div>
+            </span>
             </a>
           </li>
 
            <li>
           <a href="#security">
             <i class="icon icon-security"></i>
-            <div class="service-title">
+            <span class="service-title">
               manage it security
-            </div>
+            </span>
             </a>
           </li>
 
            <li>
           <a href="#server">
             <i class="icon icon-server"></i>
-            <div class="service-title">
+            <span class="service-title">
               server monitoring
-            </div>
+            </span>
             </a>
           </li>
 
            <li>
           <a href="#disaster">
             <i class="icon icon-disaster"></i>
-            <div class="service-title">
+            <span class="service-title">
               disaster recovery
-            </div>
+            </span>
             </a>
           </li>
 
            <li>
           <a href="#design">
             <i class="icon icon-design"></i>
-            <div class="service-title">
+            <span class="service-title">
               web design and development
-            </div>
+            </span>
             </a>
           </li>
         </ul>
       </div>
+      </div>
+
+      
 
       <div class="section skin-white" id="support">
         <div class="container">
@@ -175,6 +177,49 @@
              </p>
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-application"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      APPLICATION VIRTUALIZATION
+                    </h4>
+                    <p>
+                      By virtualizing your in-house technology, you’ll be able to access more IT, more memory and more software than is physically installed in your office, because it’s all hosted offsite. Virtualizationtechniques can be applied to many aspects of your business IT, including networks, storage, laptop and server hardware, operating systems and applications. This means improved mobility, increased reliability and cost reduction.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-server-virtualization"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      SERVER VIRTUALIZATION SERVICES
+                    </h4>
+                    <p>
+                      We will consolidate your servers, free up your resources, improve flexibility and reduce costs.We will customize the right solution for your business on a budget.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
         </div>
       </div>
 
@@ -192,6 +237,111 @@
               </p>
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-network-security"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      NETWORK SECURITY
+                    </h4>
+                    <p>
+                      Spam, viruses, malwares and file corruption are just some of the possible threats to your business network. It's no secret today's computing environment is risky. We offer a unique, custom approach to securing your environment, so your secrets don't become someone else's.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-forensic"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      DIGITAL FORENSIC
+                    </h4>
+                    <p>
+                      As part of our all-inclusive packages, we offer email hosting for any size of business. We offer a number of managed email hosting services including managed mail servers, managed spam filtering, managed email security and managed email utilities.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-server"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      SERVER MONITORING
+                    </h4>
+                    <p>
+                      AlbertaIT proactively monitors your key network servers and infrastructure to identify issues before they occur is what separates us from the rest. Our system automatically scans and checks the hardware health to ensure your network receives the maximum possible uptime and performance.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-surveillance"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      IP SURVEILLANCE
+                    </h4>
+                    <p>
+                      AlbertaIT IP security solution delivers a proven, comprehensive security platform that optimizes your network. It integrates a wide range of network security functions into a single device, giving you unmatched visibility you’re your applications, data, and users.
+                    </p>
+                    <p>
+                      We secure your premises, maintain your staff’s safety and undertake surveillance, to ensure that your assets are not compromised in any way. Combining the power of video camera technology with the Internet means your security system can be accessed from an Internet browser (PC, laptop, tablet or mobile device), providing remote access to live and recorded video. We can specifically provide you remote video monitoring, IP cameras, IP surveillance software support and maintenance and backup storage for video footage.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-disaster"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      DISASTER RECOVERY
+                    </h4>
+                    <p>
+                      Every business needs a disaster recovery plan and our team of experts can tailor make a package to suit your business in time of disaster so you won’t be left stranded.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="section-intro">
+            <p>
+              Your relationship with AlbertaIT can be vital to the health of your business, whether you are a small or medium-sized business, a business that is just starting up or a business that is growing. As technology consultants, we are your outsourced IT solution, taking care of all your technology issues from A to Z. Our tech support is only a phone call away – call our 24/7/365 Help Desk to get IT assistance instantly. We can fix most problems remotely, so that you can be back up and running without having to wait for a technician to come to your office.
+            </p>
+          </div>
         </div>
       </div>
 
@@ -207,6 +357,70 @@
              <p>
                Every step of the way you are supported by a dedicated project manager. We will provide you with regular progress updates and design samples toallow you to get a feel for your growing website. We are here to support you through every part of the web development process.
              </p>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-responsive"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      Website Design &amp; Development
+                    </h4>
+                    <p>
+                      Exquisitely designed websites need precision and quality. We create websites that are in accordance with your goals using the latest technologies in web design and development.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-ecommerce"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      E-Commerce
+                    </h4>
+                    <p>
+                      Online businesses require a strong platform to establish a solid web presence. AlbertaIT has made a reputation of providing
+                      dedicated attention to every project in order to soak in the very essence of our clients’ trade and build a site that meets
+                      customer-specific requirements. With all the fully-integrated features, our standard e-commerce solutions make a worthwhile investment to ensure your online success.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6">
+              <div class="service-item">
+                <div class="col-sm-2">
+                  <div class="icon-wrapper">
+                    <i class="icon icon-cms"></i>
+                  </div>
+                  </div>
+                  <div class="col-sm-10">
+                    <div class="copy">
+                    <h4 class="copy-title">
+                      Content Management System
+                    </h4>
+                    <p>
+                      Content management applications are currently among the hottest topics today. This powerful application allows website 
+                      administrators to manage and update images, articles and any other website content even without an IT knowledge. A content management system generally includes features such as web-based publishing tools, format management, indexing, search and retrieval, and revision control. Keeping the contents up-to-date is an effective way to put your online site at the
+                      forefront of your competitors.
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

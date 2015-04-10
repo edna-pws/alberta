@@ -8,7 +8,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
@@ -23,7 +23,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
@@ -38,7 +38,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
@@ -53,7 +53,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
@@ -68,7 +68,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
@@ -83,7 +83,7 @@
           <div class="post-block post-block-news">
             <div class="post-head">
               <h3 class="post-title">Alberta IT Partners Up with Two Popular Sydney Hotspots</h3>
-              <p class="post-date">Posted on: Monday, February 16th, 2015</p>
+              <p class="post-news-date">Posted on: Monday, February 16th, 2015</p>
             </div>
             <div class="post-body">
               <div class="post-block-image">
