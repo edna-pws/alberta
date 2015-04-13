@@ -71,11 +71,20 @@
   background: #212121;
   transition: .2s linear all;
 
+  @media(max-width: 767px) {
+    top: 367px;
+    height: 300px;
+  }
+
   > li{
         float: left;
         display: block;
         text-align: center;
         width: 16.6666%; 
+
+        @media(max-width: 767px) {
+          width: 32.6666%;
+        }
 
         > a{
           color: #fff;
@@ -147,6 +156,15 @@
     -moz-transition: .2s linear all;
     -ms-transition: .2s linear all;
     -o-transition: .2s linear all;
+
+    @media (max-width: 991px) {
+      width: 32%;
+    }
+
+    @media (max-width: 767px) {
+      float: none;
+      width: auto;
+    }
 
     &:hover{
       .grid-icon{

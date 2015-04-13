@@ -15,8 +15,8 @@
 	}
 }
 
-.navbar-default{
-	.navbar-nav{
+.navbar-default {
+	.navbar-nav {
 			float: right;
 			margin: 1.5em 0;
 
@@ -25,15 +25,21 @@
 				font-size: 16px;
 				position: relative;
 
-			> a{
+			> a {
 				color: #03121b;
 				text-transform: uppercase;
 				padding: 15px 20px;
 				position: relative;
+				font-size: 16px;
 
 				&:hover{
 					color: #2978b5;
 
+				}
+
+				@media (max-width: 1199px) {
+					padding: 15px 12px;
+					font-size: 14px;
 				}
 			}
 
@@ -42,6 +48,10 @@
 					color: #fff;
 				}
 			}
+		}
+
+		@media (max-width: 767px) {
+			float: none;
 		}
 	}
 
