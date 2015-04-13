@@ -72,17 +72,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/images\/banner.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117339,
-		"inputAbbreviatedPath": "\/images\/banner.jpg",
-		"outputAbbreviatedPath": "\/images\/banner.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/banner2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2927,7 +2916,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Philweb Frontend",
+"lastSavedByUser": "PHILWEBSERIVICES Mac Mini  10",
 "manualImportLinks": {
 	},
 "projectAttributes": {
