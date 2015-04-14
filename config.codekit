@@ -2423,7 +2423,7 @@
 		"outputAbbreviatedPath": "\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -2956,7 +2956,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "PHILWEBSERIVICES Mac Mini  10",
+"lastSavedByUser": "Philweb Frontend",
 "manualImportLinks": {
 	},
 "projectAttributes": {

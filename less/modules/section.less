@@ -137,17 +137,23 @@
   position: relative;
 
   .owl-carousel {
+    height: 120px;
     padding: 5px 15px;
   }
 }
 
-.section-message{
-  img{
+.section-message {
+  img {
     float: left;
     margin-right: 30px;
     margin-bottom: 30px;
     border: 7px solid #f1f1f1;
     box-shadow: 0 0 7px #cecece;
+
+    @media (max-width: 767px) {
+      float: none;
+      margin: 0 auto 30px;
+    }
   }
 }
 

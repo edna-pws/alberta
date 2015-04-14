@@ -4,8 +4,8 @@
       <div class="banner banner-services">
         <div class="video-wrapper">
           <video id="video1" class="services-video" autoplay preload="auto">
-           <source src="videos/albertait-video.mp4" type='video/mp4' />
-           <source src="videos/albertait-video.ogv" type='video/ogg' />
+           <source src="videos/albertait-video.mp4" type="video/mp4" />
+           <source src="videos/albertait-video.ogv" type="video/ogg" />
            <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
           </video>
         </div>

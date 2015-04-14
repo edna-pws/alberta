@@ -117,12 +117,17 @@
         }
     }
 
-    &.fixed{
+    &.fixed {
       position: fixed;
       top: 0;
       left: 0;
       right: 0;
       z-index: 999;
+      height: 120px;
+
+      @media(max-width: 767px) {
+        height: 230px;
+      }
 
       > li{
         > a{
