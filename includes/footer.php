@@ -138,30 +138,30 @@
               <div class="col-md-3">
                 <h5 class="list-title">Our Services</h5>
                 <ul class="list-circle">
-                  <li><a href="#">IT Support</a></li>
-                  <li><a href="#">Cloud Hosting</a></li>
-                  <li><a href="#">Virtualization</a></li>
-                  <li><a href="#">Server Monitoring</a></li>
-                  <li><a href="#">Manage IT Security</a></li>
-                  <li><a href="#">Website Design and Development</a></li>
+                  <li><a href="services.php#support">IT Support</a></li>
+                  <li><a href="services.php">Cloud Hosting</a></li>
+                  <li><a href="services.php#virtualization">Virtualization</a></li>
+                  <li><a href="services.php">Server Monitoring</a></li>
+                  <li><a href="services.php#security">Manage IT Security</a></li>
+                  <li><a href="services.php#design">Website Design and Development</a></li>
                 </ul>
               </div>
 
                <div class="col-md-3">
                 <h5 class="list-title">Our Products &amp; Updates</h5>
                 <ul class="list-circle">
-                  <li><a href="#">IT Hardware</a></li>
-                  <li><a href="#">IT Software</a></li>
-                  <li><a href="#">Warranties</a></li>
+                  <li><a href="products.php">IT Hardware</a></li>
+                  <li><a href="products.php">IT Software</a></li>
+                  <li><a href="products.php">Warranties</a></li>
                 </ul>
               </div>
 
                <div class="col-md-2">
                 <h5 class="list-title">Company Info</h5>
                 <ul class="list-circle">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Sitemap</a></li>
-                  <li><a href="#">View Map</a></li>
+                  <li><a href="about.php">About Us</a></li>
+                  <li><a href="contact.php">Sitemap</a></li>
+                  <li><a href="contact.php">View Map</a></li>
                 </ul>
               </div>
 
@@ -194,12 +194,12 @@
 
              <ul class="nav navbar-nav nav-menu pull-right">
                 <li><a href="/">Home</a></li>
-                <li><a href="/">About Us</a></li>
-                <li><a href="/">Our Services</a></li>
-                <li><a href="/">Products</a></li>
-                <li><a href="/">Careers</a></li>
-                <li><a href="/">News</a></li>
-                <li><a href="/">Contact Us</a></li>
+                <li><a href="about.php">About Us</a></li>
+                <li><a href="services.php">Our Services</a></li>
+                <li><a href="products.php">Products</a></li>
+                <li><a href="careers.php">Careers</a></li>
+                <li><a href="news.php">News</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
               </ul>
           </div>
         </div>

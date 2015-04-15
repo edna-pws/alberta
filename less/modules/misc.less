@@ -25,7 +25,6 @@
       border-left-width: 1px;
       border-right-width: 1px;
       text-transform: uppercase;
-      white-space: nowrap;
 
       &:hover{
         color: #004b85;
@@ -67,14 +66,9 @@
   width: 100%;
   bottom: 0;
   top: auto;
-  height: 142px;
+  height: auto;
   background: #212121;
   transition: .2s linear all;
-
-  @media(max-width: 767px) {
-    top: 367px;
-    height: 300px;
-  }
 
   > li{
         float: left;
@@ -123,16 +117,20 @@
       left: 0;
       right: 0;
       z-index: 999;
-      height: 120px;
+      height: 130px;
 
       @media(max-width: 767px) {
-        height: 230px;
+        height: 110px;
       }
 
       > li{
         > a{
           padding: 0;
           font-size: 12px;
+
+          @media(max-width: 767px) {
+            padding: 15px 0;
+          }
 
           .icon{
             transform: scale(.5);

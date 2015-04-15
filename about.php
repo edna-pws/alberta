@@ -24,7 +24,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/support.jpg" alt="Full Managed IT Support">
+                  <a href="services.php#support"><img class="img-responsive" src="images/support.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Full Manage IT Support</h3>
@@ -40,7 +40,7 @@
              <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/cloud-hosting.jpg" alt="Full Managed IT Support">
+                  <a href="services.php"><img class="img-responsive" src="images/cloud-hosting.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Cloud Hosting</h3>
@@ -52,7 +52,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/virtualization.jpg" alt="Full Managed IT Support">
+                  <a href="services.php#virtualization"><img class="img-responsive" src="images/virtualization.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Virtualization</h3>
@@ -66,7 +66,7 @@
             <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/security.jpg" alt="Full Managed IT Support">
+                  <a href="services.php#security"><img class="img-responsive" src="images/security.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Managed IT Security</h3>
@@ -79,7 +79,7 @@
              <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/server-monitoring.jpg" alt="Full Managed IT Support">
+                  <a href="services.php"><img class="img-responsive" src="images/server-monitoring.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Server Monitoring</h3>
@@ -91,7 +91,7 @@
              <div class="col-sm-6 col-md-4">
               <div class="post-block post-block-primary">
                 <div class="post-block-image">
-                  <img class="img-responsive" src="images/disaster-recovery.jpg" alt="Full Managed IT Support">
+                  <a href="services.php"><img class="img-responsive" src="images/disaster-recovery.jpg" alt="Full Managed IT Support"></a>
                 </div>
                 <div class="post-body">
                   <h3 class="post-body-title">Disaster Recovery</h3>
@@ -124,7 +124,7 @@
         </div>
       </div>
 
-      <div class="section section-message">
+      <!-- <div class="section section-message">
         <div class="container">
           <div class="section-heading">
             <h2 class="section-title">Message from the President</h2>
@@ -136,9 +136,9 @@
           <p>Michael’s overriding focus has been in exceeding client expectations by providing the most comprehensive and highest quality IT managed services available to small businesses in Alberta. Michael is the foundation behind our satisfied clients exemplified by his combination of technical aptitude, strong account management experience and open communication style. He created and maintains a structure and procedures that ensure the highest level of accuracy and efficiency, focusing on transparent client communications and accountability. Michael overseas top accounts and projects and is part of the research and development team for new products and services. It is Michael’s dedication to client relations that is the key to AlbertaIT’s successful growth, market presence, and exceptional client satisfaction.</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
-      <div class="section skin-gray">
+      <div class="section">
         <div class="container">
           <div class="section-heading">
             <img class="img-responsive center-block" src="images/logo.png" alt="image">

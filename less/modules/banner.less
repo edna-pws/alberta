@@ -80,7 +80,12 @@
     min-height: 445px;
     opacity: .4;
   }
+
+  @media(max-width: 767px) {
+    background-attachment: scroll;
+  }
 }
+
 .banner-home {
   background-color: #001006 !important;
 }
@@ -94,9 +99,12 @@
   background-image: url(../images/banner2.png);
   background: #212121;
   min-height: 555px;
-  background-color: #0c101b !important;
   background-position: center -39px !important;
   background-size: auto 63%;
+
+  @media (max-width: 767px) {
+    min-height: 0;
+  }
 }
 
 .banner-products {
@@ -143,7 +151,7 @@
 
 .banner-careers {
   background-image: url(../images/banner4.png);
-  background-position: center 65px !important;
+  background-position: center 0 !important;
   background-color: #0c0c0c !important;
 }
 
