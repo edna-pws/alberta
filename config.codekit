@@ -109,7 +109,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 990619,
 		"inputAbbreviatedPath": "\/images\/banner4.png",
 		"outputAbbreviatedPath": "\/images\/banner4.png",
 		"outputPathIsOutsideProject": 0,
@@ -391,6 +391,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/coming-soon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45744,
+		"inputAbbreviatedPath": "\/images\/coming-soon.jpg",
+		"outputAbbreviatedPath": "\/images\/coming-soon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/desktop.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -435,13 +446,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/icon-hardware.png": {
+	"\/images\/icon-products.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5265,
-		"inputAbbreviatedPath": "\/images\/icon-hardware.png",
-		"outputAbbreviatedPath": "\/images\/icon-hardware.png",
+		"initialSize": 30427,
+		"inputAbbreviatedPath": "\/images\/icon-products.png",
+		"outputAbbreviatedPath": "\/images\/icon-products.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -453,28 +464,6 @@
 		"initialSize": 22166,
 		"inputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
 		"outputAbbreviatedPath": "\/images\/icon-sbe243d15ec.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/icon-software.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2866,
-		"inputAbbreviatedPath": "\/images\/icon-software.png",
-		"outputAbbreviatedPath": "\/images\/icon-software.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/icon-warranty.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7570,
-		"inputAbbreviatedPath": "\/images\/icon-warranty.png",
-		"outputAbbreviatedPath": "\/images\/icon-warranty.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2751,11 +2740,11 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/news-single.php": {
+	"\/news-old.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/news-single.php",
+		"inputAbbreviatedPath": "\/news-old.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2765,6 +2754,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/news.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products-single.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products-single.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

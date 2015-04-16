@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AlbertaIT |</title>
+    <title>AlbertaIT | Your IT Solutions Provider</title>
 
     <!-- Bootstrap -->
     <link href="styles/bootstrap.min.css" rel="stylesheet">

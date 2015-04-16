@@ -19,7 +19,7 @@
       <div class="row featured-products">
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <a class="icon-product-wrapper" href="#">
+            <a class="icon-product-wrapper" href="products-single.php">
               <span class="icon icon-hardware"></span> 
             </a>
             <h3 class="featured-product-title">Hardware</h3>
@@ -27,7 +27,7 @@
         </div>   
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <a class="icon-product-wrapper" href="#">
+            <a class="icon-product-wrapper" href="products-single.php">
               <span class="icon icon-software"></span> 
             </a>
             <h3 class="featured-product-title">Software</h3>
@@ -35,7 +35,7 @@
         </div>
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <a class="icon-product-wrapper" href="#">
+            <a class="icon-product-wrapper" href="products-single.php">
               <span class="icon icon-warranty"></span> 
             </a>
             <h3 class="featured-product-title">Warranties</h3>
