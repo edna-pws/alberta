@@ -144,6 +144,7 @@
                   <li><a href="services.php">Server Monitoring</a></li>
                   <li><a href="services.php#security">Manage IT Security</a></li>
                   <li><a href="services.php#design">Website Design and Development</a></li>
+                  <li class="customer-ftp"><a href="http://wftp.albertait.com:89">Customer FTP Login</a></li>
                 </ul>
               </div>
 
