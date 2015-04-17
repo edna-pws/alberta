@@ -19,23 +19,26 @@
       <div class="row featured-products">
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <img src="images/icon-hardware.png" alt="Hardware">
+            <a class="icon-product-wrapper" href="products-single.php">
+              <span class="icon icon-hardware"></span> 
+            </a>
             <h3 class="featured-product-title">Hardware</h3>
-            <a class="btn btn-primary text-uppercase" href="#">View Details</a>
           </div>
         </div>   
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <img src="images/icon-software.png" alt="Hardware">
-            <h3 class="featured-product-title">Software Licensing</h3>
-            <a class="btn btn-primary text-uppercase" href="#">View Details</a>
+            <a class="icon-product-wrapper" href="products-single.php">
+              <span class="icon icon-software"></span> 
+            </a>
+            <h3 class="featured-product-title">Software</h3>
           </div>
         </div>
         <div class="col-sm-4 col-md-4">
           <div class="featured-products-item">
-            <img src="images/icon-warranty.png" alt="Hardware">
-            <h3 class="featured-product-title">Hardware</h3>
-            <a class="btn btn-primary text-uppercase" href="#">Warranties</a>
+            <a class="icon-product-wrapper" href="products-single.php">
+              <span class="icon icon-warranty"></span> 
+            </a>
+            <h3 class="featured-product-title">Warranties</h3>
           </div>
         </div>
       </div>

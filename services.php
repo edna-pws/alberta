@@ -3,9 +3,9 @@
     <div class="services-page">
       <div class="banner banner-services">
         <div class="video-wrapper">
-          <video id="video1" class="services-video" autoplay preload="auto">
-           <source src="videos/albertait-video.mp4" type='video/mp4' />
-           <source src="videos/albertait-video.ogv" type='video/ogg' />
+          <video id="video1" class="services-video" preload="auto" autoplay loop>
+           <source src="videos/albertait-video.mp4" type="video/mp4" />
+           <source src="videos/albertait-video.ogv" type="video/ogg" />
            <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
           </video>
         </div>
@@ -20,7 +20,7 @@
         <ul class="nav navbar-nav navbar-fixed-top hero-menu-primary single-page-nav">
           <li>
           <a href="#support">
-            <i class="icon icon-support"></i>
+            <i class="icon icon-support hidden-xs"></i>
             <span class="service-title">
               it support
             </span>
@@ -29,7 +29,7 @@
 
            <li>
           <a href="#virtualization">
-            <i class="icon icon-virtualization"></i>
+            <i class="icon icon-virtualization hidden-xs"></i>
             <span class="service-title">
               virtualization
             </span>
@@ -38,7 +38,7 @@
 
            <li>
           <a href="#security">
-            <i class="icon icon-security"></i>
+            <i class="icon icon-security hidden-xs"></i>
             <span class="service-title">
               manage it security
             </span>
@@ -47,7 +47,7 @@
 
            <li>
           <a href="#server">
-            <i class="icon icon-server"></i>
+            <i class="icon icon-server hidden-xs"></i>
             <span class="service-title">
               server monitoring
             </span>
@@ -56,7 +56,7 @@
 
            <li>
           <a href="#disaster">
-            <i class="icon icon-disaster"></i>
+            <i class="icon icon-disaster hidden-xs"></i>
             <span class="service-title">
               disaster recovery
             </span>
@@ -65,7 +65,7 @@
 
            <li>
           <a href="#design">
-            <i class="icon icon-design"></i>
+            <i class="icon icon-design hidden-xs"></i>
             <span class="service-title">
               web design and development
             </span>

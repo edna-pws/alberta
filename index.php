@@ -13,11 +13,11 @@
 
       <div class="section-hero-menu">
         <ul class="nav navbar-nav hero-menu">
-          <li><a href="#">it support</a></li>
-          <li><a href="#">cloud hosting</a></li>
-          <li><a href="#">virtualization</a></li>
-          <li><a href="#">server monitoring</a></li>
-          <li><a href="#">web design &amp; development</a></li>
+          <li><a href="services.php#support">it support</a></li>
+          <li><a href="services.php">cloud hosting</a></li>
+          <li><a href="services.php#virtualization">virtualization</a></li>
+          <li><a href="services.php">server monitoring</a></li>
+          <li><a href="services.php#design">web design &amp; development</a></li>
         </ul>
       </div>
 
@@ -87,24 +87,27 @@
         </div>
       </div>
 
-      <div class="section skin-white">
+      <div class="section section-it-department skin-white">
         <div class="container-fluid">
           <h2 class="section-title">Your IT Department</h2>
           <ul class="grid-list-wrapper">
             <li class="grid-list support">
               <div class="grid-icon">
-                <span class="icon icon-support"></span>
+                <a href="services.php#support">
+                  <span class="icon icon-support"></span>
+                </a>
               </div>
               <h4 class="grid-title">IT Support</h4>
               <div class="copy">
                 <p>24/7 Personalized IT support</p>
               </div>
-              <a href="#" class="btn btn-primary">Learn More</a>
             </li>
 
              <li class="grid-list hosting">
               <div class="grid-icon">
-                 <span class="icon icon-hosting"></span>
+                 <a href="services.php">
+                    <span class="icon icon-hosting"></span>
+                 </a>
               </div>
               <h4 class="grid-title">Cloud Hosting</h4>
               <div class="copy">
@@ -113,12 +116,13 @@
                   little or as much needed
                 </p>
               </div>
-              <a href="#" class="btn btn-primary">Learn More</a>
             </li>
 
              <li class="grid-list virtualization">
               <div class="grid-icon">
-                 <span class="icon icon-virtualization"></span>
+                 <a href="services.php#virtualization">
+                    <span class="icon icon-virtualization"></span>
+                 </a>
               </div>
               <h4 class="grid-title">
               Virtualization</h4>
@@ -128,12 +132,13 @@
                 and server virtualization tailored for your business
                 </p>
               </div>
-              <a href="#" class="btn btn-primary">Learn More</a>
             </li>
 
              <li class="grid-list monitoring">
               <div class="grid-icon">
-                 <span class="icon icon-server"></span>
+                 <a href="services.php">
+                    <span class="icon icon-server"></span>
+                 </a>
               </div>
               <h4 class="grid-title">Server Monitoring</h4>
               <div class="copy">
@@ -142,12 +147,13 @@
                 network infrastructure and servers
                 </p>
               </div>
-              <a href="#" class="btn btn-primary">Learn More</a>
             </li>
 
              <li class="grid-list design">
               <div class="grid-icon">
-                 <span class="icon icon-design"></span>
+                 <a href="services.php#design">
+                    <span class="icon icon-design"></span>
+                 </a>
               </div>
               <h4 class="grid-title">Web Design &amp; Development</h4>
               <div class="copy">
@@ -156,7 +162,6 @@
                 web services
                 </p>
               </div>
-              <a href="#" class="btn btn-primary">Learn More</a>
             </li>
           </ul>
         </div>
@@ -205,7 +210,7 @@
               </div>
               <div class="col-md-12">
                 <div class="post-footer">
-                  <a href="#" class="btn btn-primary">Read more</a>
+                  <a href="news.php" class="btn btn-primary">Read more</a>
                 <ul class="pagination-control">
                   <li><a href="#"><i class="fa fa-angle-left"></i></a></li>
                   <li><a href="#"><i class="fa fa-angle-right"></i></a></li>

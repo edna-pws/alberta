@@ -59,23 +59,11 @@
           <div class="col-md-6">
             <div class="form-group">
               <label for="expertise">Area of Expertise<span>*</span></label>
-              <select class="form-control" id="expertise">
-                <option>- Click Here -</option>
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-              </select>
+              <input type="text" class="form-control" id="expertise" placeholder="Area of Expertise">
             </div>
             <div class="form-group">
               <label for="job-title">Job Posting Title<span>*</span></label>
-              <select class="form-control" id="job-title">
-                <option>- Click Here -</option>
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-              </select>
+              <input type="text" class="form-control" id="job-title" placeholder="Job Posting Title">
             </div>
             <div class="form-group">
               <label for="job-posting">Where did you see this job posting?</label>
