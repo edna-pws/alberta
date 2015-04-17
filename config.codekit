@@ -38,15 +38,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/main.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/image-sprite\/css\/icons.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -2720,26 +2711,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/modules\/video.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/modules\/video.less",
-		"outputAbbreviatedPath": "\/less\/css\/video.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
 	"\/news-old.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2954,7 +2925,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Philweb Frontend",
+"lastSavedByUser": "PHILWEBSERIVICES Mac Mini  10",
 "manualImportLinks": {
 	},
 "projectAttributes": {
