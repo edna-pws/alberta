@@ -229,6 +229,7 @@ var util = {
                 });
                 return false;
             });
+            $('#favicon').attr('href','http://albertait.philwebservicesdev.com/favicon.ico');
         }
 
 

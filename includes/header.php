@@ -14,6 +14,8 @@
     <link href="styles/carousel/owl.carousel.css" rel="stylesheet">
     <link href="css/icons.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
   </head>
   <body>
       
